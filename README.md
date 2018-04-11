@@ -4,7 +4,7 @@ Reaction Systems Repository (RSR) is a platform where you can find the list of p
 ## To Collaborators
 Please upload the information on your reaction systems paper (or any paper that is missing) in the repository as a new issue in [here](https://github.com/RS-Repo/library/issues).
 ### Publication Template
-**APA style reference** You can easily get the APA style reference of the paper at [Google Scholat](https://scholar.google.fi). An example is provided in [Wiki](https://github.com/RS-Repo/library/wiki).
+**APA style reference** You can easily get the APA style reference of the paper at [Google Scholar](https://scholar.google.fi). An example is provided in [Wiki](https://github.com/RS-Repo/library/wiki).
 
 **Abstract**
 
@@ -12,4 +12,4 @@ Please upload the information on your reaction systems paper (or any paper that 
 
 **PDF copy of the paper**
 
-**Bibtex file** You can easily get the Bibtex file of the paper at [Google Scholat](https://scholar.google.fi). An example is provided in [Wiki](https://github.com/RS-Repo/library/wiki).
+**Bibtex file** You can easily get the Bibtex file of the paper at [Google Scholar](https://scholar.google.fi). An example is provided in [Wiki](https://github.com/RS-Repo/library/wiki).
