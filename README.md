@@ -5,6 +5,7 @@ Reaction Systems Repository (RSR) is a platform where you can find the list of p
 Please upload the information on your reaction systems paper in the repository as a new issue in [here](https://github.com/RS-Repo/library/issues).
 ### Publication Template
 ** APA style reference**
+
 ** Abstract**
 ** Link to the online copy**
 ** PDF copy of the paper**
