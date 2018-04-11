@@ -10,6 +10,6 @@ Please upload the information on your reaction systems paper (or any paper that 
 
 **Link to the online copy**
 
-**PDF copy of the paper**
+**PDF copy of the paper** (If it is publically available).
 
-**Bibtex file** You can easily get the Bibtex file of the paper at [Google Scholar](https://scholar.google.fi). An example is provided in [Wiki](https://github.com/RS-Repo/library/wiki).
+**Bibtex file** (Can be added either as a hyperlink or only as plain text) You can easily get the Bibtex file of the paper at [Google Scholar](https://scholar.google.fi). An example is provided in [Wiki](https://github.com/RS-Repo/library/wiki).
