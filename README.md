@@ -1,5 +1,11 @@
 # Read Me!
 Reaction Systems Repository (RSR) is a platform where you can find the list of publications in the field of reaction systems. When publically available a copy of the paper is also accessible through repository, otherwise a link to the publisher page will be provided.
 
-# To Collaborators
+## To Collaborators
 Please upload the information on your reaction systems paper in the repository as a new issue in [here](https://github.com/RS-Repo/library/issues).
+### Publication Template
+** APA style reference**
+** Abstract**
+** Link to the online copy**
+** PDF copy of the paper**
+** Bibtex file**
